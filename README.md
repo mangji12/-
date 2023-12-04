@@ -4,7 +4,7 @@
 
 ### 개요
 
-목소리를 인공지능 기술을 이용하여 복제하는 것을 목표로 한다. 모델 직접 작성한 것이 아닌 깃허브에 공유된 [한국형 음성모방 소스코드](https://github.com/metamin99/tacotron2_wavenet_korean_tts.git)을 사용하였다.
+목소리를 인공지능 기술을 이용하여 복제하는 것을 목표로 한다. 인공지능 모델은 직접 작성한 것이 아닌 깃허브에 공유된 [한국형 음성모방 소스코드](https://github.com/metamin99/tacotron2_wavenet_korean_tts.git)을 사용하였다.
 
 ### 참조 문서
 
