@@ -67,7 +67,7 @@
     
 - 트레이닝 로그
     
-    ![Untitled](VoiceCloning%206deedd2e55fc4d43a8d19c82ccd45a26/Untitled.png)
+    ![Untitled](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project/blob/main/%EA%B2%B0%EA%B3%BC%EB%AC%BC%20%ED%8F%B4%EB%8D%94/%E1%84%90%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%82%E1%85%B5%E1%86%BC%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3.png?raw=true)
     
 
 ### 결론
