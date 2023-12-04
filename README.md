@@ -53,17 +53,17 @@
     
 - 학습시킨 모델의 그래프
     
-    ![정제되지 않은 모델 → 내가 학습시킨 모델](VoiceCloning%206deedd2e55fc4d43a8d19c82ccd45a26/align-0.png)
+    ![충분하지 않은 학습으로 인한 정제되지 않은 결과](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project/blob/main/%EA%B2%B0%EA%B3%BC%EB%AC%BC%20%ED%8F%B4%EB%8D%94/%EC%A0%81%EA%B2%8C%20%ED%95%99%EC%8A%B5%ED%95%9C%20%EA%B2%B0%EA%B3%BC.png?raw=true)
     
-    정제되지 않은 모델 → 내가 학습시킨 모델
+    충분하지 않은 학습으로 인한 정제되지 않은 결과
     
-    ![정제된 모델](VoiceCloning%206deedd2e55fc4d43a8d19c82ccd45a26/%25E1%2584%2586%25E1%2585%25A9%25E1%2586%25A8%25E1%2584%2591%25E1%2585%25AD%25E1%2584%2580%25E1%2585%25A7%25E1%2586%25AF%25E1%2584%2580%25E1%2585%25AA.png)
+    ![충분한 학습으로 인한 정제된 결과](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project/blob/main/%EA%B2%B0%EA%B3%BC%EB%AC%BC%20%ED%8F%B4%EB%8D%94/%EB%A7%8E%EC%9D%B4%20%ED%95%99%EC%8A%B5%ED%95%9C%20%EA%B2%B0%EA%B3%BC.png?raw=true)
     
-    정제된 모델
+    충분한 학습으로 인한 정제된 결과
     
 - 모방 결과 .wav 파일
     
-    [0.wav](VoiceCloning%206deedd2e55fc4d43a8d19c82ccd45a26/0.wav)
+    [음성 결과물](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project/raw/main/%EA%B2%B0%EA%B3%BC%EB%AC%BC%20%ED%8F%B4%EB%8D%94/%EC%9D%8C%EC%84%B1%20%EA%B2%B0%EA%B3%BC%EB%AC%BC.wav)
     
 - 트레이닝 로그
     
